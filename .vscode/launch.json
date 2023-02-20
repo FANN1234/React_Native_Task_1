@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "Attach to Direct iOS - Experimental",
+      "cwd": "${workspaceFolder}",
+      "type": "reactnativedirect",
+      "request": "attach",
+      "platform": "ios",
+      "useHermesEngine": false,
+      "port": 9221,
+      "isDynamic": true
+    }
+  ]
+}
